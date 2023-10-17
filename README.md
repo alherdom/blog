@@ -43,7 +43,7 @@ touch .env
 
 It is recommended to use the "justfile" for a smoother execution.
 
-1. Running the server locally:
+**1. Running the server locally:**
 
 ```
 python manage.py runserver
@@ -55,3 +55,14 @@ or
 just runserver
 ```
 
+**2. Starting development server at:**
+
+```
+http://127.0.0.1:8000/blog/
+``` 
+
+**3. Quit the server with:**
+
+```
+ctrl + c
+```
