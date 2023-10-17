@@ -49,3 +49,9 @@ It is recommended to use the "justfile" for a smoother execution.
 python manage.py runserver
 ```
 
+or
+
+```
+just runserver
+```
+
