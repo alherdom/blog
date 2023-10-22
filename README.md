@@ -5,6 +5,10 @@
 
 ## Project
 
+<div align=center;">
+    <img src="alejandrosblog.png" alt="Error">
+</div>
+
 ## Run locally
 
 ### Previous steps to run the application locally:
