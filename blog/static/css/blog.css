@@ -45,10 +45,8 @@ h3.sidebar-title {
 }
 
 p.date {
-    color: #ccc;
+    color: lightslategrey;
     font-family: georgia, serif;
-    font-size: 12px;
-    font-style: italic;
 }
 
 .pagination {
