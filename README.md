@@ -1,6 +1,6 @@
 # Django Blog
 
-#### Blog application built with the Django framework.
+#### Blog application built with Django framework.
 #### Author: Alejandro Hernández Domínguez
 
 ## Project
